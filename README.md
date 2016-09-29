@@ -84,7 +84,7 @@ function minerrStrip( options ) {
 
 ## Contributing
 Pull requests are welcome! Remember to keep the following rules in mind:
-- All features or bug fixes must be documented by one or more specs. We use [Jasmine](http://pivotal.github.io/jasmine).
+- All features or bug fixes must be documented by one or more specs. We use [Jasmine](https://jasmine.github.io).
 - Submissions must pass JSHint. Run `gulp lint` to check this.
 - Instead of complex inheritance hierarchies, we prefer simple objects. We use prototypical inheritance only when absolutely necessary.
 - We love functions and closures and, whenever possible, prefer them over objects.
